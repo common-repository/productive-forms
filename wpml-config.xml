@@ -1,0 +1,153 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">pro_contact</custom-type>
+  </custom-types>
+  <admin-texts>
+    <key name="productive_forms_contact_us_slug_default"/>
+    <key name="productive_forms_section_contact_options">
+      <key name="productive_forms_contact_us_page"/>
+      <key name="page_intro_1"/>
+      <key name="contact_ask_for_visitor_phone"/>
+      <key name="copy_contactus_email_to_visitor"/>
+      <key name="how_to_display_contact_name_field"/>
+      <key name="how_to_process_contact_submissions"/>
+      <key name="receiver_of_contact_email_messages"/>
+      <key name="show_contact_field_labels"/>
+      <key name="consent_checkbox_text_contact"/>
+      <key name="contact_success_message"/>
+      <key name="contact_location_heading"/>
+      <key name="contact_email"/>
+      <key name="contact_phone_dial_code"/>
+      <key name="contact_whatsapp_dial_code"/>
+      <key name="contact_phone"/>
+      <key name="contact_whatsapp"/>
+      <key name="contact_address"/>
+      <key name="contact_whatsapp_usage"/>
+      <key name="contact_city"/>
+      <key name="contact_county"/>
+      <key name="contact_country"/>
+      <key name="contact_postcode"/>
+      <key name="contact_icon_color_addressinfo"/>
+      <key name="contact_show_email_phone_address_on_contact_page"/>
+      <key name="contact_business_hours_heading"/>
+      <key name="contact_business_hours_mon_fri"/>
+      <key name="contact_business_hours_sat"/>
+      <key name="contact_business_hours_sun"/>
+      <key name="contact_show_business_hour_on_contact_page"/>
+      <key name="social_facebook"/>
+      <key name="social_youtube"/>
+      <key name="social_twitter"/>
+      <key name="social_pinterest"/>
+      <key name="social_instagram"/>
+      <key name="contact_show_social_media_on_contact_page"/>
+      <key name="contact_icon_color_socialmedia"/>
+      <key name="contact_icon_color_use_default_socialmedia"/>
+      <key name="what_to_display_in_floating_buttons"/>
+      <key name="floating_buttons_placement_vertical"/>
+      <key name="floating_buttons_placement_horizontal"/>
+    </key>
+    <key name="productive_forms_section_integration_options">
+      <key name="keep_plugin_data_during_uninstall"/>
+      <key name="productive_forms_integration_popup_transition_easing"/>
+      <key name="productive_forms_integration_popup_transition_direction"/>
+      <key name="integration_ask_show_google_map"/>
+      <key name="integration_recaptcha_key"/>
+      <key name="integration_recaptcha_secret"/>
+      <key name="integration_google_map_api_key"/>
+      <key name="integration_google_map_longitude"/>
+      <key name="integration_google_map_latitude"/>
+    </key>
+    <key name="productive_forms_section_newsletter_options">
+      <key name="productive_forms_newsletter_heading"/>
+      <key name="productive_forms_newsletter_intro"/>
+      <key name="copy_newsletter_email_to_visitor"/>
+      <key name="how_to_display_newsletter_name_field"/>
+      <key name="how_to_process_newsletter_submissions"/>
+      <key name="receiver_of_newsletter_email_messages"/>
+      <key name="show_newsletter_field_labels"/>
+      <key name="consent_checkbox_text_newsletter"/>
+      <key name="newsletter_success_message"/>
+      <key name="newsletter_customer_subscription_enable_account_subscribe"/>
+      <key name="newsletter_customer_subscription_enable_checkout_subscribe"/>
+      <key name="newsletter_customer_subscription_checkout_heading"/>
+      <key name="newsletter_customer_subscription_checkout_desc"/>
+      <key name="newsletter_customer_subscription_checkout_checkbox_text"/>
+    </key>
+    <key name="productive_global_section_grid_options">
+      <key name="productive_global_grid_row_gap"/>
+      <key name="productive_global_grid_column_gap"/>
+      <key name="productive_global_grid_breakpoint_widescreen"/>
+      <key name="productive_global_grid_cols_per_row_widescreen"/>
+      <key name="productive_global_grid_breakpoint_desktop"/>
+      <key name="productive_global_grid_cols_per_row_desktop"/>
+      <key name="productive_global_grid_breakpoint_tablet_landscape"/>
+      <key name="productive_global_grid_cols_per_row_tablet_landscape"/>
+      <key name="productive_global_grid_breakpoint_tablet_portrait"/>
+      <key name="productive_global_grid_cols_per_row_tablet_portrait"/>
+      <key name="productive_global_grid_breakpoint_mobile_landscape"/>
+      <key name="productive_global_grid_cols_per_row_mobile_landscape"/>
+      <key name="productive_global_grid_breakpoint_mobile_portrait"/>
+      <key name="productive_global_grid_cols_per_row_mobile_portrait"/>
+    </key>
+    <key name="productive_global_section_misc_options">
+      <key name="productive_global_misc_is_loading_color_1"/>
+      <key name="productive_global_misc_is_loading_color_2"/>
+      <key name="productive_global_misc_is_loading_size"/>
+      <key name="productive_global_misc_is_loading_thickness"/>
+    </key>
+    <key name="productive_global_section_popup_options">
+      <key name="productive_global_popup_transition_easing"/>
+      <key name="productive_global_popup_transition_direction"/>
+      <key name="productive_global_popup_header_footer_bg_color"/>
+      <key name="productive_global_popup_header_footer_text_color"/>
+      <key name="productive_global_popup_header_footer_hyperlink_color"/>
+      <key name="productive_global_popup_header_footer_hyperlink_color_hover"/>
+      <key name="productive_global_popup_close_button_color"/>
+      <key name="productive_global_popup_close_button_color_bg"/>
+      <key name="productive_global_popup_close_button_color_hover"/>
+      <key name="productive_global_popup_close_button_color_hover_bg"/>
+      <key name="productive_global_popup_width_min"/>
+      <key name="productive_global_popup_width_max"/>
+      <key name="productive_global_popup_when_modal_goes_fullscreen"/>
+      <key name="is_on_productive_global_popup_close_with_esc_key_enable"/>
+      <key name="is_on_productive_global_popup_close_with_click_elsewhere_enable"/>
+      <key name="productive_global_popup_bg_opacity"/>
+      <key name="is_on_productive_global_popup_use_theme_style"/>
+    </key>
+    <key name="productive_global_section_sharing_options">
+      <key name="productive_global_sharing_icon_color"/>
+      <key name="productive_global_sharing_icon_bg_color"/>
+      <key name="productive_global_sharing_icon_bg_color_hover"/>
+      <key name="productive_global_sharing_share_on_copy_location"/>
+      <key name="productive_global_sharing_icon_size"/>
+      <key name="productive_global_sharing_icon_spacing"/>
+      <key name="productive_global_sharing_enable_facebook"/>
+      <key name="productive_global_sharing_enable_twitter"/>
+      <key name="productive_global_sharing_enable_pinterest"/>
+      <key name="productive_global_sharing_enable_instagram"/>
+      <key name="productive_global_sharing_enable_whatsapp"/>
+      <key name="productive_global_sharing_enable_email"/>
+    </key>
+    <key name="productive_global_section_slider_options">
+      <key name="productive_global_slider_transition_style"/>
+      <key name="is_on_productive_global_slider_autoplay_enable"/>
+      <key name="is_on_productive_global_slider_play_loop_enable"/>
+      <key name="is_on_productive_global_slider_pause_on_mouse_over_enable"/>
+      <key name="is_on_productive_global_slider_lazy_loading_enable"/>
+      <key name="productive_global_slider_transition_delay"/>
+      <key name="productive_global_slider_transition_direction"/>
+      <key name="productive_global_slider_user_controls"/>
+      <key name="productive_global_slider_buttons_color_primary"/>
+      <key name="productive_global_slider_buttons_color_secondary"/>
+      <key name="productive_global_slider_pagination_control_shape"/>
+      <key name="productive_global_slider_nav_control_shape"/>
+      <key name="productive_global_slider_nav_control_padding"/>
+      <key name="productive_global_slider_slides_per_view_widescreen"/>
+      <key name="productive_global_slider_slides_per_view_desktop"/>
+      <key name="productive_global_slider_slides_per_view_tablet_landscape"/>
+      <key name="productive_global_slider_slides_per_view_tablet_portrait"/>
+      <key name="productive_global_slider_slides_per_view_mobile_landscape"/>
+      <key name="productive_global_slider_slides_per_view_mobile_portrait"/>
+    </key>
+  </admin-texts>
+</wpml-config>

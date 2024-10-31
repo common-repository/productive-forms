@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "productive-forms/contact-page",
+  "version": "1.1.6",
+  "title": "Contact Us Page",
+  "category": "productiveminds",
+  "keywords": [
+    "Contact Page",
+    "Contact Us Page"
+  ],
+  "description": "Publish a functional Contact Us page fast.",
+  "example": {},
+  "attributes": {
+    "is_formonly": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "textdomain": "productive-forms"
+}

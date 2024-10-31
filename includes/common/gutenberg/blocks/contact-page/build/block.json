@@ -1,0 +1,124 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "productive-forms/contact-page",
+  "version": "1.1.6",
+  "title": "Contact Us Page",
+  "category": "productiveminds",
+  "keywords": [
+    "Contact Page",
+    "Contact Us Page"
+  ],
+  "description": "Publish a functional Contact Us page fast.",
+  "example": {},
+  "attributes": {
+    "is_formonly": {
+      "type": "boolean",
+      "default": false
+    },
+    "productive_forms_contact_side": {
+      "type": "string",
+      "default": "contact_form_on_left"
+    },
+    "productive_forms_form_submit_text": {
+      "type": "string",
+      "default": "Submit"
+    },
+    "display_contact_form_label": {
+      "type": "boolean",
+      "default": false
+    },
+    "contact_how_to_display_contact_name_field": {
+      "type": "string",
+      "default": "combined_field"
+    },
+    "contact_ask_for_visitor_phone": {
+      "type": "boolean",
+      "default": false
+    },
+    "request_data_privacy_consent": {
+      "type": "boolean",
+      "default": true
+    },
+    "submission_verify_type": {
+      "type": "string",
+      "default": "discreet"
+    },
+    "section_title": {
+      "type": "string",
+      "default": "Message Us"
+    },
+    "section_title_html_tag": {
+      "type": "string",
+      "default": "h2"
+    },
+    "section_intro": {
+      "type": "string",
+      "default": "Please provide a description here. Leave both the title and description fields empty to hide the header."
+    },
+    "section_header_alignment": {
+      "type": "string",
+      "default": ""
+    },
+    "display_contact_email_address": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_phone_number": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_whatsapp_number": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_location": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_opening_hours": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_social_media_icons": {
+      "type": "boolean",
+      "default": true
+    },
+    "display_contact_social_media_icons_title": {
+      "type": "string",
+      "default": "Follow us"
+    },
+    "display_contact_social_media_icons_style": {
+      "type": "string",
+      "default": "brand_color_around_white_icon"
+    },
+    "section_block_max_width": {
+      "type": "string",
+      "default": "siteMaxWidth_Std"
+    },
+    "section_block_spacing": {
+      "type": "string",
+      "default": "section_spacing_default"
+    },
+    "section_content_show_url_button_shape": {
+      "type": "string",
+      "default": "shapeable-content-button-rounded-corner"
+    },
+    "section_content_show_url_button_width": {
+      "type": "string",
+      "default": "button-width-auto"
+    },
+    "section_bg_color_scheme": {
+      "type": "string",
+      "default": "section_with_themed_bg"
+    }
+  },
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "textdomain": "productive-forms"
+}

@@ -1,0 +1,91 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "productive-forms/newsletter-element",
+  "version": "1.1.6",
+  "title": "Newsletter Opt-in",
+  "category": "productiveminds",
+  "keywords": [
+    "Newsletter Element"
+  ],
+  "description": "Publish a newsletter section.",
+  "example": {},
+  "attributes": {
+    "display_email_field_only": {
+      "type": "boolean",
+      "default": false
+    },
+    "productive_forms_newsletter_form_style": {
+      "type": "string",
+      "default": "landscape"
+    },
+    "productive_forms_form_submit_text": {
+      "type": "string",
+      "default": "Send"
+    },
+    "productive_forms_form_footnote_text": {
+      "type": "string",
+      "default": ""
+    },
+    "display_contact_form_label": {
+      "type": "boolean",
+      "default": false
+    },
+    "newsletter_how_to_display_contact_name_field": {
+      "type": "string",
+      "default": "combined_field"
+    },
+    "request_data_privacy_consent": {
+      "type": "boolean",
+      "default": true
+    },
+    "submission_verify_type": {
+      "type": "string",
+      "default": "discreet"
+    },
+    "section_title": {
+      "type": "string",
+      "default": "Subscribe to Our Newsletter"
+    },
+    "section_title_html_tag": {
+      "type": "string",
+      "default": "h2"
+    },
+    "section_intro": {
+      "type": "string",
+      "default": "Join our list today and enjoy a 25% discount on your first order!"
+    },
+    "section_header_alignment": {
+      "type": "string",
+      "default": ""
+    },
+    "section_block_max_width": {
+      "type": "string",
+      "default": "siteMaxWidth_Std"
+    },
+    "section_block_spacing": {
+      "type": "string",
+      "default": "section_spacing_default"
+    },
+    "section_content_show_url_button_shape": {
+      "type": "string",
+      "default": "shapeable-content-button-rounded-corner"
+    },
+    "section_content_show_url_button_width": {
+      "type": "string",
+      "default": "button-width-auto"
+    },
+    "section_bg_color_scheme": {
+      "type": "string",
+      "default": "section_with_themed_bg"
+    }
+  },
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "textdomain": "productive-forms"
+}

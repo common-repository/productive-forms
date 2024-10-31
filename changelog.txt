@@ -1,0 +1,44 @@
+
+== Changelog ==
+
+= v1.1.0, released on 2023-10-21st =
+- (compatibility): Updated and verified compatibility with WordPress 6.3.2.
+- (improvement): Enhanced admin dashboard interface.
+- (improvement): Refined core features of the global framework.
+
+= v1.0.10, released on 2023-08-02 =
+- (fix) : Addressed bug following regression tests
+
+= v1.0.9, released on 2023-08-01 =
+- (compatibility): Compatible with WordPress 6.2.2.
+- (feature): Introduced ‘productive global’, a performance-boosting framework for our plugins.
+- (feature): Set groundwork for multiple pre-built contact page templates.
+- (feature): Prepared for configurable newsletter opt-in popups.
+- (improvement): Styling enhancements and user experience improvements.
+
+= v1.0.7, released on 2023-01-28 =
+- (feature): New contact us page template added.
+- (feature): Laid foundation for multiple Contact page templates.
+- (improvement): Comprehensive code refactoring.
+- (improvement): Enhanced user experience.
+- (improvement): Optimized Google recaptcha library.
+- (fix): Resolved minor bugs.
+
+= v1.0.6, released on 2023-01-12 =
+- (improvement): Major code restructure, refactoring, and improvements in user journey options.
+- (feature): Introduced a new post type for forthcoming implementations.
+- (fix): Addressed and resolved bugs.
+
+= v1.0.2, released on 2022-12-06
+- (improvement): Better support for local SVG icons.
+- (improvement): Comprehensive code restructure and refactoring.
+
+= v1.0.1, released on 2022-11-29 =
+- (release): Plugin’s inaugural release on wordpress.org.
+
+= v0.0.1, released on 2022-11-25 =
+- (development): Completed features in anticipation of the initial release.
+- (improvements): Implemented updates based on reviewer feedback, fixed bugs, and further enhancements.
+
+= v0.0.0, released on 2022-11-14 =
+- (development): First draft submitted for review on wordpress.org.

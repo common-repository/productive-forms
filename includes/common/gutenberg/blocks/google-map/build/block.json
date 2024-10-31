@@ -1,0 +1,72 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "productive-forms/google-map",
+  "version": "1.1.6",
+  "title": "Google Map",
+  "category": "productiveminds",
+  "keywords": [
+    "Google Map",
+    "Google Maps"
+  ],
+  "description": "Publish Google Maps",
+  "example": {},
+  "attributes": {
+    "section_title": {
+      "type": "string",
+      "default": "How to Locate Us"
+    },
+    "section_title_html_tag": {
+      "type": "string",
+      "default": "h2"
+    },
+    "section_intro": {
+      "type": "string",
+      "default": "Please provide a description here. Leave both the title and description fields empty to hide the header."
+    },
+    "section_header_alignment": {
+      "type": "string",
+      "default": ""
+    },
+    "google_map_container_width": {
+      "type": "number",
+      "default": 100
+    },
+    "google_map_container_height": {
+      "type": "number",
+      "default": 700
+    },
+    "google_map_map_magnification": {
+      "type": "number",
+      "default": 17
+    },
+    "google_map_display_physical_address": {
+      "type": "boolean",
+      "default": true
+    },
+    "section_block_max_width": {
+      "type": "string",
+      "default": "siteMaxWidth_Std"
+    },
+    "section_block_spacing": {
+      "type": "string",
+      "default": "section_spacing_default"
+    },
+    "section_content_show_url_button_shape": {
+      "type": "string",
+      "default": "shapeable-content-button-rounded-corner"
+    },
+    "section_bg_color_scheme": {
+      "type": "string",
+      "default": "section_with_themed_bg"
+    }
+  },
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "textdomain": "productive-forms"
+}
